@@ -1,4 +1,4 @@
 Name: Pranali Pardeshi
 Year: Second Year
-Branch: Computer
+Branch: Computer Engineering
 DSC Team: Flutter
